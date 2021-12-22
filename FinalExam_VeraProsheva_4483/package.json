@@ -1,0 +1,22 @@
+{
+    "name": "UACS-IP",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "lite-server"
+    },
+    "author": "Your Professor",
+    "license": "MIT",
+    "dependencies": {
+        "es6-module-loader": "^0.17.11",
+        "jquery": "^3.6.0",
+        "material-design-lite": "^1.3.0",
+        "systemjs": "^0.19.47",
+        "traceur": "0.0.111"
+    },
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
